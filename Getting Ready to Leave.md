@@ -8,13 +8,16 @@
 
 ### Before you leave
 
-- [ ] Take out the garbage, and toss it down the chute (across the hall)
+- [ ] Take out the garbage, and toss it down the chute (door across the hall)
 - [ ] Turn off the hot water heater, to do so, go to the breaker by the laundry machines, and turn off the one marked `hot water`
-- [ ] Turn off the A/C by switching the old looking thermostat in the living room to `OFF`
+- [ ] Turn off the A/C by switching the Honeywell thermostat in the living room to `OFF`
 - [ ] Turn off the A/C fan by switching the dial beside the breaker to `OFF`
 - [ ] Turn down the heat in all of the rooms to around `14°C` or so
 - [ ] Take down the recycling to the garage
 
   	The easiest way to get here is to go down the stairs beside the elevator, and go down two flights. Then, once inside the garage, turn right.
 
-  	- Recycling is sorted by paper & cardboard, and everything else.
+  	Recycling is sorted by 
+
+  	- :package: paper & cardboard
+  	- :material-bottle-soda: everything else
