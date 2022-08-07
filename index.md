@@ -32,8 +32,9 @@ There are some automations in the master bedroom which you may want to be aware 
 - The light against the back wall of the bedroom is motion activated between the hours of `12am` and `7am`, and will turn on for `4 minutes` when activated.
   
   If this is undesirable, you can either
-    - turn off the light,
+    
+  - turn off the light,
 
-    or
+  or
 
-    -  turn the motion sensor so it faces the wall, then turn the light back on, and it should act normally.
+  -  turn the motion sensor so it faces the wall, then turn the light back on, and it should act normally.
