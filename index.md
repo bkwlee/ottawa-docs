@@ -45,3 +45,24 @@ The area is generally pretty safe, however some of the streets can be a bit unpl
 Generally, avoiding the areas marked in red below after dark is recommended, as while they are safe, some more rowdy characters can hang out in these areas.
 
 ![map with marked areas](./images/areas%20to%20avoid.jpg)
+
+### Misc
+
+If needed, there are:
+
+#### Cleaning Supplies
+
+- cleaning supplies in the laundry closet in the main hall
+- a vacuum cleaner in the guest bedroom closet
+- a mop and bucket in the entryway closet
+- Lysol wipes under the sink in the kitchen
+
+#### Food
+- Additional coffee beans can be found in the second drawer under the coffee maker
+- Teas can be found in the cupboard above the microwave
+- Non-refrigerated sauces can be found in the corner cupboard above the counter
+
+#### Electronics
+
+- Chargers can be found in the master bedroom storage unit, in the top bucket
+- Charging cables can be found scattered throughout the chargers in the rooms, additional cables can be found in the master bedroom storage unit in the top bucket
