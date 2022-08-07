@@ -24,6 +24,26 @@ The A/C system here is a little complex, and requires two steps.
 
         This dial controls the A/C fan, but it can also be used to increase airflow when the A/C is off as well
 
+### Heating
+
+Heating works via baseboard heaters in the bedrooms, as well as in the living room. Heat can be controlled on a per-room basis using the thermostats in each of the above rooms.
+
+!!! note
+
+    When enabling the heat in the living room, make sure the couch is not touching the baseboard heater, and that there is a gap around the heater of around `2 inches` or so
+
+In the living room, the Mysa thermostat is the one responsible for controlling the heating. 
+
+<img src="./images/mysaa.webp" alt="drawing" width="120"/>
+
+This can be set by either
+
+- Setting the temperature directly on the thermostat display
+
+or
+
+- Using the Google Nest hub in the kitchen (or the Google Home app on a phone) to set the temperature for any room with a Mysa thermostat. The guest bedroom uses an older analog thermostat, and must be manually set.
+
 ### Home automations
 
 - The light against the back wall of the bedroom is motion activated between the hours of `12am` and `7am`, and will turn on for `4 minutes` when activated.
@@ -35,6 +55,8 @@ The A/C system here is a little complex, and requires two steps.
       or
 
     - turn the motion sensor so it faces the wall, then turn the light back on, and it should act normally.
+
+      <img src="./images/motion-sensor.jpeg" alt="drawing" width="120"/>
 
 - When using the TV after sunset, the light in the corner will fade on, and will automatically turn itself off a few minutes after the TV is turned off. You don't need to manually turn off the light unless you want it off :smile:
 
