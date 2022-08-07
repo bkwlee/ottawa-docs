@@ -7,6 +7,7 @@ Here is a collection of restaurants I've tried and liked, or friends / family ha
     - [Cheaper (sub $15 / person)](#cheaper-sub-15--person)
     - [Mid-priced (~ $15-25 / person)](#mid-priced--15-25--person)
     - [Expensive ($25+)](#expensive-25)
+    - [Really Expensive (40+)](#really-expensive-40)
   - [Recommendations from Others](#recommendations-from-others)
   - [Other places](#other-places)
 
@@ -59,15 +60,21 @@ Here is a collection of restaurants I've tried and liked, or friends / family ha
 
 - Most things in Little Italy 
   
-    > **Warning** check the reviews before you pick a place in Little Italy, there are some expensive, and not great places in there as well
+  !!! warning
+  
+      check the reviews before you pick a place in Little Italy, there are some overly expensive, and not great places in there as well
 
 - El Camino (3 tacos / person, will be cheaper if you eat less) 
 
 - Gyubee Japanese grill (haven’t been, but heard good things!) 
 
-- Meech & Munch (in Quebec, far but really good) 
+- [Meech & Munch](https://meechandmunch.ca/en/) (in Quebec, far but really good) 
 
 - S O M E W H E R E dine bar (real expensive, but fun atmosphere in the warmer months; they have a really nice patio and good cocktails!) 
+
+### Really Expensive (40+)
+
+- [e18hteen](https://www.restaurant18.com/)
 
 ## Recommendations from Others
 
