@@ -52,8 +52,9 @@ Here is a collection of restaurants I've tried and liked, or friends / family ha
 - Le Troquet (Hull island) – traditional / eclectic French food 
 
 - Ola Cocina Taqueria (far but possibly the best Mexican tacos in Ottawa) 
-
  
+- [Gourmet Sushi](https://goo.gl/maps/GSUxm2uVFFWRk3ZX8) (can be anywhere from ~15 - 35+ a person depending on what you order)
+
 ### Expensive ($25+) 
 
 - The Grand Pizzeria 
@@ -71,6 +72,8 @@ Here is a collection of restaurants I've tried and liked, or friends / family ha
 - [Meech & Munch](https://meechandmunch.ca/en/) (in Quebec, far but really good) 
 
 - S O M E W H E R E dine bar (real expensive, but fun atmosphere in the warmer months; they have a really nice patio and good cocktails!) 
+
+- [Gourmet Sushi](https://goo.gl/maps/GSUxm2uVFFWRk3ZX8) (can be anywhere from ~15 - 35+ a person depending on what you order)
 
 ### Really Expensive (40+)
 
